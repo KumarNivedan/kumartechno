@@ -6,6 +6,7 @@ I hope it makes a good intro for anyone interested in chatbots and frontend fund
 
 Enjoy!
 
-[Demo](http://127.0.0.1:5500/chatbot-master/index.html)
+http://127.0.0.1:5500/chatbot-master/index.html
+
 
 
