@@ -6,6 +6,6 @@ I hope it makes a good intro for anyone interested in chatbots and frontend fund
 
 Enjoy!
 
-[Demo](https://sylviapap.github.io/chatbot/)
+[Demo] (https://kumarnivedan.github.io/kumartechno/)
 
-[Blog post](https://dev.to/sylviapap/make-a-simple-chatbot-with-javascript-1gc)
+
